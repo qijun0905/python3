@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60fe61a3-4974-437b-ab49-3608c32c7f7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Flask_iHome.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,17 +56,33 @@
       <option name="presentableId" value="Default" />
       <updated>1609381142647</updated>
       <workItem from="1609381157094" duration="28000" />
-      <workItem from="1609381353193" duration="665000" />
+      <workItem from="1609381353193" duration="902000" />
     </task>
+    <task id="LOCAL-00001" summary="创建flask项目">
+      <created>1609382172875</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609382172875</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建flask项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建flask项目" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="476" y="146" key="CommitChangelistDialog2" timestamp="1609381976636">
+    <state x="476" y="146" key="CommitChangelistDialog2" timestamp="1609382172760">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="476" y="146" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1609381976636" />
+    <state x="476" y="146" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1609382172760" />
+    <state x="496" y="311" key="Vcs.Push.Dialog.v2" timestamp="1609382180871">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="311" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1609382180871" />
   </component>
 </project>

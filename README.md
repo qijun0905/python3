@@ -1,2 +1,1 @@
-# python3
-项目描述
+flask项目
